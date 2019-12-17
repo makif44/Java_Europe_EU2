@@ -8,7 +8,8 @@ public class commenting {
 		System.out.println("Single line comment above");
 		
 		System.out.println("Multi comments below");
-		/*Comment1
+		/*
+		 * Comment1
 		  Comment2
 		  Comment3
 		 */
