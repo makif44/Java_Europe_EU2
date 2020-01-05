@@ -20,6 +20,14 @@ public class PrintStatement {
 		
 		System.out.println("He said \"hello\" ");
 		
+		System.out.println(- -1-3*10/5-1);
+		
+		// (- -1) - 3 * 10 / 5 -1
+		// 1 - (3 * 10) / 5 -1
+		// 1 - (30 / 5) -1
+		// 1 - 6 - 1
+		// -6
+		
 		
 
 	}
