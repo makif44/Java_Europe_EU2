@@ -7,7 +7,7 @@ public class Question6 {
 		int k=0;
 		int row=5;
 		
-		for(int i =1;i<=row;i++) {
+		for(int i=1;i<=row;i++) {
 			
 			k=i;
 			
@@ -16,6 +16,11 @@ public class Question6 {
 				System.out.print(k+" ");
 				
 				k=k+row-j;
+				
+				// k = 2 + 5 - 1 = 6
+				
+				// k = 3 + 5 - 1 = 7
+				// k = 7 + 5 - 2 = 10
 				
 			}
 			
