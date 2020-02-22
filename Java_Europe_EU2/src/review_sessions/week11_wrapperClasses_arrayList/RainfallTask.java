@@ -1,4 +1,4 @@
-package review_sessions.week10_arrays;
+package review_sessions.week11_wrapperClasses_arrayList;
 
 import java.util.Scanner;
 
